@@ -16,6 +16,6 @@ Proyecto simple para crear tu propio listado de links personales
 <a href="https://www.youtube.com/@QARMY-UC"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-QARMY-blue?style=flat-square&logo=youtube"></a>
 <a href="mailto:info@dvezzoni.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-info@dvezzoni.com-blue?style=flat-square&logo=gmail"></a>  
 
-### Stats:
+### Stats 📊:
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=dvezzoni&show_icons=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvezzoni&label=Profile%20views&color=0e75b6&style=flat" alt="Clon-Linktree" /> </p>
