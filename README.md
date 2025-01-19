@@ -13,7 +13,7 @@ Proyecto simple para crear tu propio listado de links personales
 
 ### Demo Online
 
-<a href="https://dvezzoni.com/info">Ver DEMO</a>
+<a href="https://dvezzoni.com/info" target="_blank">VER DEMO</a>
 
 ### Contacto
 <a href="https://www.linkedin.com/in/dvezzoni/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@dvezzoni-blue?style=flat-square&logo=linkedin"></a>
