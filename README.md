@@ -1,4 +1,4 @@
-<h1>Clon de Linktree para perfiles personales 🚀</h1>
+<h1>Clon gratuito de Linktree 🚀</h1>
 
 ### Sobre el proyecto
 Proyecto simple para crear tu propio listado de links personales
