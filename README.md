@@ -1,2 +1,2 @@
 # linktree-clone
-Clon de linktree para contactos personales
+Clon de linktree para perfiles personales
