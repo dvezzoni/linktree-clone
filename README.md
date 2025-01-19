@@ -8,9 +8,13 @@ Proyecto simple para crear tu propio listado de links personales
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-### Preview
+### Versión
 
 <img src="https://i.imgur.com/IU7ojRh.png">
+
+### Versión Responsiva
+
+<img src="https://i.imgur.com/Z3MOyit.png">
 
 ### Demo Online
 
