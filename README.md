@@ -22,4 +22,4 @@ Proyecto simple para crear tu propio listado de links personales
 
 ### Stats 📊
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=dvezzoni&show_icons=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvezzoni&label=Profile%20views&color=0e75b6&style=flat" alt="Clon-Linktree" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvezzoni&label=Repo%20views&color=0e75b6&style=flat" alt="Clon-Linktree" /> </p>
